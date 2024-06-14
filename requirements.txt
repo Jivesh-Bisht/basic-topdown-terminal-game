@@ -1,0 +1,2 @@
+keyboard==0.13.5
+termcolor==2.4.0
